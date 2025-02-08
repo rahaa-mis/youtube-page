@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "homepage":"http://rahaa-mis.github.io/youtube-page",
+    "gh-pages": "^6.3.0"
+  }
+
+}
